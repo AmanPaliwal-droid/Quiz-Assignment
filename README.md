@@ -7,7 +7,6 @@ A Python-based console quiz application that allows users to answer multiple-cho
 - User-friendly console interface.
 
 ## How to Run
-1. Install Python (if not already installed).
+1. Install Python.
 2. Clone this repository:
-   ```bash
    git clone https://github.com/AmanPaliwal-droid/Quiz-Assignment.git
