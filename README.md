@@ -10,4 +10,4 @@ A Python-based console quiz application that allows users to answer multiple-cho
 1. Install Python (if not already installed).
 2. Clone this repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/AmanPaliwal-droid/Quiz-Assignment.git
